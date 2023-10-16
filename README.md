@@ -1,2 +1,1 @@
-# koyoyoi.github.io
-# http://koyoyoi.githun.io
+# http://koyoyoi.github.io
